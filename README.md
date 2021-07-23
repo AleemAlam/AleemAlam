@@ -1,10 +1,10 @@
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Mangeshbk.Mangeshbk) -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AleemAlam.AleemAlam) -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mangeshbk&label=Profile%20views&color=0e75b6&style=flat" alt="MangeshLandge" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AleemAlam&label=Profile%20views&color=0e75b6&style=flat" alt="MangeshLandge" /> </p> -->
 
 <a href="#"><img width="100%" height="auto" src="./Images/full-stack-development.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mangesh Landge</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aleem Alam</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
 
 <p align= "center">
@@ -26,10 +26,10 @@
 
 🥅 **2021 Goals :** Learning new things and contribute more
 
-<!-- 📫 You can reach me at [chat](mailto:mangeshbkwsu@gmail.com)! -->
-
+<!-- 📫 You can reach me at [chat](mailto:AleemAlamwsu@gmail.com)! -->
 
 ## 🚀 Languages and Tools:
+
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -50,30 +50,28 @@
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/Mangeshbk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/AleemAlam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
-    <a href="https://github.com/Mangeshbk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mangesh Landge's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mangeshbk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/AleemAlam/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aleem Alam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AleemAlam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
- 
   <p align="center">
-    <a href="https://github.com/Mangeshbk/github-readme-stats"><img alt="Mangesh Landge's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mangeshbk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AleemAlam/github-readme-stats"><img alt="Aleem Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AleemAlam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
     <!-- <p align="center">
-  <a href="https://github.com/Mangeshbk/github-readme-stats"><img alt="Mangesh Landge's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangeshbk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
+  <a href="https://github.com/AleemAlam/github-readme-stats"><img alt="Aleem Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleemAlam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangeshbk&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleemAlam&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
- 
 
   <!-- <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mangeshbk&show_icons=true&locale=en&layout=compact" alt="Mangeshbk"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleemAlam&show_icons=true&locale=en&layout=compact" alt="AleemAlam"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangeshbk&show_icons=true&locale=en" alt="Mangeshbk" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AleemAlam&show_icons=true&locale=en" alt="AleemAlam" /></p> -->
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -81,22 +79,25 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <br/>
 
-<a href="https://github.com/Mangeshbk/github-readme-activity-graph"><img alt="Mangesh Landge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mangeshbk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AleemAlam/github-readme-activity-graph"><img alt="Aleem Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AleemAlam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mangesh-landge-458315166//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mangesh_bk"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/bk_mangesh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Mangeshbk/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Mangeshbk">
+
+<a href="https://github.com/AleemAlam/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AleemAlam">
 </a>
-<a href="https://github.com/Mangeshbk?tab=followers"><img src="https://img.shields.io/github/followers/Mangeshbk?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AleemAlam?tab=followers"><img src="https://img.shields.io/github/followers/AleemAlam?label=Followers&style=social" alt="GitHub Badge"></a>
